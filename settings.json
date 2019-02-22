@@ -1,0 +1,46 @@
+{
+  "workbench.colorTheme": "One Dark Pro Vivid",
+  "workbench.colorCustomizations": {
+    "[One Dark Pro Vivid]": {
+      "activityBar.background": "#0c0c0c",
+      "editor.background": "#000000",
+      "editorGroupHeader.tabsBackground": "#0c0c0c",
+      "tab.inactiveBackground": "#000000",
+      "tab.activeBackground": "#111111",
+      "sideBar.background": "#050505",
+      "sideBarSectionHeader.background": "#111111",
+      "list.hoverBackground": "#22283b",
+      "terminal.foreground": "#c8c8c8"
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "[One Dark Pro Vivid]": {
+      "functions": "#ff0d86",
+      "keywords": "#ff0d86",
+      "strings": "#00f693",
+      "numbers": "#faef00",
+      "types": "#00fffb"
+    }
+  },
+
+  "editor.detectIndentation": true,
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "html.format.contentUnformatted": "pre,code,textarea,style",
+
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.rendererType": "dom",
+
+  "window.zoomLevel": 0,
+
+  "workbench.editor.enablePreview": false,
+  "workbench.sideBar.location": "left",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": false
+}
